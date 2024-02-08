@@ -1,5 +1,5 @@
 module.exports = {
-	name: "Garud", // optional, falls back to object key
+	name: "Garud-notes", // optional, falls back to object key
 	description: "Notes page",
 	options: {
 		runs: 1,
