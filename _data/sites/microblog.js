@@ -1,5 +1,5 @@
 module.exports = {
-	name: "Garud", // optional, falls back to object key
+	name: "Garud-microblog", // optional, falls back to object key
 	description: "MicroBlog page",
 	options: {
 		runs: 1,
