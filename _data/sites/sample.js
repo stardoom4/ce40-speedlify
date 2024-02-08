@@ -7,8 +7,5 @@ module.exports = {
 	},
 	urls: [
 		"https://garud.netlify.app"
-		"https://garud.netlify.app/notes/"
-                "https://garud.netlify.app/microblog/"
-		"https://garud.netlify.app/extra/"
 	]
 };
